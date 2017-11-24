@@ -32,6 +32,8 @@ Typora使用教程   http://www.jianshu.com/p/092de536d948
 
 latex公式查询  http://latex.codecogs.com/eqneditor/editor.php
 
+lp_solvereferenceguide  http://lpsolve.sourceforge.net/5.5/
+
 
 
 
